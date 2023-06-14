@@ -5,17 +5,11 @@
 
 <p align="center">I’m <strong>Fullstack Developer</strong> with 4 years of experience.<br />Check my social networks 👇!</p>
 <p align="center">
-   <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
+   <a href="https://www.linkedin.com/in/bravos-dev/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://static.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520" alt="linkedin" height="28px" width="28px" />
   </a>
-   <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
-  </a>
-  <a href="https://instagram.com/midu.dev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
-  </a>
-  <a href="https://twitter.com/midudev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+   <a href="https://bravos-dev.netlify.app/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://www.svgrepo.com/show/259640/profile-user.svg" alt="midudev" height="28px" width="28px" />
   </a>
 </p>
 
