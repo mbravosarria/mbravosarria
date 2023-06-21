@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="[https://media.licdn.com/dms/image/D4E35AQFCqKTMxpPfNg/profile-framedphoto-shrink_200_200/0/1686768556444?e=1687377600&v=beta&t=vOC5bj9g1Yu_oX-_tupQeaWb13xBD4IiGDxbVNhbEhE](https://avatars.githubusercontent.com/u/51337208?v=4)" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/51337208?v=4" />
    <h3 align="center">¡Hello 👋! I’m Michel 👨🏻‍💻</h3>
 </p>
 
