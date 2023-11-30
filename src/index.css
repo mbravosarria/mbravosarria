@@ -1,2 +1,20 @@
 :root {
+  font-family: "Merriweather", system-ui, Helvetica, Arial, serif;
+
+  --color-background: #fff;
+  --color-dark: #37404a;
+  --color-light: #dad8d9;
+  --color-brown-strong: #824644;
+  --color-brown-medium: #826763;
+  --color-brown-weak: #bc9c90;
+
+  background-color: var(--color-background);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #37404a;
+    --color-dark: #dad8d9;
+    --color-light: #37404a;
+  }
 }
