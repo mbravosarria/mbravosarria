@@ -18,3 +18,14 @@
     --color-light: #37404a;
   }
 }
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1580px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}

@@ -1,1 +1,9 @@
+span.margin {
+  position: absolute;
+  width: 5px;
+  height: 100%;
 
+  z-index: -1;
+
+  background-color: var(--color-brown-weak);
+}
