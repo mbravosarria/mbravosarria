@@ -10,5 +10,11 @@ span.margin {
 
   z-index: -1;
 
-  background-color: var(--color-brown-weak);
+  background-color: var(--color-background);
+}
+
+@media (min-width: 620px) {
+  span.margin {
+    background-color: var(--color-brown-weak);
+  }
 }

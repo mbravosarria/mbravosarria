@@ -1,5 +1,11 @@
+@font-face {
+  font-family: "Inter Tight";
+  src: url("./assets/fonts/inter_tight/InterTight-VariableFont_wght.ttf")
+    format("truetype");
+}
+
 :root {
-  font-family: "Merriweather", system-ui, Helvetica, Arial, serif;
+  font-family: "Inter Tight", system-ui, Helvetica, Arial, serif;
 
   --color-background: #fff;
   --color-dark: #37404a;

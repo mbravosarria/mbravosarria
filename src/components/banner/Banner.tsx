@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./Banner.css";
-import PhoneBannerImg from "../../assets/phone-banner.webp";
-import DesktopBannerImg from "../../assets/desk-banner.webp";
+import PhoneBannerImg from "../../assets/images/phone-banner.webp";
+import DesktopBannerImg from "../../assets/images/desk-banner.webp";
 import BannerContent from "./content/BannerContent";
 
 function Banner(): React.ReactElement {
