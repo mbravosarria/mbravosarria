@@ -217,3 +217,9 @@
     width: 48%;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  .about-subtitle > span {
+    color: var(--color-dark);
+  }
+}
