@@ -1,0 +1,123 @@
+.banner-content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+
+  padding: 8px;
+  border-left: 4px solid var(--color-brown-strong);
+}
+
+.banner-content-container > * {
+  margin-bottom: 5px;
+}
+
+.banner-content-container > *:last-child {
+  margin-bottom: 0;
+}
+
+.banner-content-container p {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #37404a;
+}
+
+.banner-content-container p span {
+  font-weight: 300;
+}
+
+.banner-name {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-brown-strong);
+}
+
+.banner-content-container h3 {
+  font-weight: 600;
+  color: #37404a;
+}
+
+.banner-content-container a:hover {
+  background-color: var(--color-brown-medium);
+}
+
+.banner-content-container a {
+  display: inline-block;
+  font-size: 0.8rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background-color: transparent;
+  border: 2px solid var(--color-brown-medium);
+  color: #37404a;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+@media (min-width: 520px) {
+  .banner-content-container p {
+    font-size: 0.6rem;
+  }
+
+  .banner-content-container {
+    padding: 8px;
+  }
+
+  .banner-name {
+    font-size: 1.2rem;
+  }
+
+  .banner-content-container h3 {
+    font-size: 0.8rem;
+  }
+
+  .banner-content-container a {
+    font-size: 0.6rem;
+    padding: 4px 8px;
+  }
+}
+
+@media (min-width: 820px) {
+  .banner-content-container p {
+    font-size: 0.8rem;
+  }
+
+  .banner-content-container {
+    padding: 8px;
+  }
+
+  .banner-name {
+    font-size: 1.5rem;
+  }
+
+  .banner-content-container h3 {
+    font-size: 1rem;
+  }
+
+  .banner-content-container a {
+    font-size: 0.8rem;
+    padding: 4px 8px;
+  }
+}
+
+@media (min-width: 1180px) {
+  .banner-content-container p {
+    font-size: 1rem;
+  }
+
+  .banner-content-container {
+    padding: 18px;
+  }
+
+  .banner-name {
+    font-size: 2rem;
+  }
+
+  .banner-content-container h3 {
+    font-size: 1.2rem;
+  }
+
+  .banner-content-container a {
+    font-size: 1rem;
+    padding: 8px 16px;
+  }
+}
