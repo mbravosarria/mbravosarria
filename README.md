@@ -30,8 +30,8 @@ I’m Michel — an IT professional transitioning into Python development, with 
 ## 📫 Let’s Connect!
 
 <!-- Add your LinkedIn, Twitter, or website below -->
-- [https://www.linkedin.com/in/bravos-dev/](#)
-- [https://x.com/m_bravo96](#)
+- [Linkedin](https://www.linkedin.com/in/bravos-dev/)
+- [Twitter](https://x.com/m_bravo96)
 
 ---
 
