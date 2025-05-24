@@ -1,9 +1,41 @@
-<h1 align="center">Hi 👋, I'm Michel Bravo Sarria</h1>
-<h3 align="center">A Web Developer and UI Designer based on United States</h3>
+# 👋 Hi, I’m Michel (mbravosarria)
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://dev.to/mbravosarria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mbravosarria" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bravos-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bravos-dev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/michel96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="michel96" height="30" width="40" /></a>
-</p>
+**IT Professional | Python Developer | Automation Enthusiast**
+
+---
+
+I’m Michel — an IT professional transitioning into Python development, with a background in JavaScript and system administration. My current focus is on:
+
+- 🚀 Exploring automation & scripting
+- 🐍 Building backend solutions with Python
+- ⚡ Leveraging my experience in JavaScript for full-stack projects
+- 🛠️ Streamlining workflows and solving real-world problems
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python, JavaScript
+- **Other:** System Administration, Automation, Backend Development
+
+---
+
+## 🌱 What I’m Working On
+
+- Deepening my Python expertise, especially for automation and backend systems
+- Experimenting with new tools and libraries in the Python ecosystem
+
+---
+
+## 📫 Let’s Connect!
+
+<!-- Add your LinkedIn, Twitter, or website below -->
+- [https://www.linkedin.com/in/bravos-dev/](#)
+- [https://x.com/m_bravo96](#)
+
+---
+
+## ⚡ Fun Fact
+
+When I’m not coding, you’ll find me tinkering with tech, exploring automation, or enjoying a good cup of coffee!
+
